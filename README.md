@@ -21,6 +21,18 @@ Separate libraries organize movies and TV shows.
 
 ![Jellyfin TV library](jellyfin-shows.png)
 
+## Audiobookshelf Library
+
+I imported audiobooks from my personal Audible library into
+Audiobookshelf. I used Libation on my Windows computer to download
+and prepare the books, then copied them to the Raspberry Pi’s
+external drive and scanned them into Audiobookshelf.
+
+This project included organizing book folders, matching metadata,
+checking for duplicate audio files, and confirming playback.
+
+![Audiobookshelf library](audiobookshelf-library.png)
+
 ## Hardware
 
 Raspberry Pi 5 with 8GB RAM, external storage and microSD card for the operating system
