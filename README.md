@@ -3,6 +3,12 @@
 A self-hosted media server built by David Lawal to organize movies,
 TV shows, personal videos, and audiobooks.
 
+## Dashboard
+
+CasaOS dashboard showing the running applications and storage usage.
+
+![CasaOS dashboard](casaos-dashboard.png)
+
 ## Hardware
 
 - Raspberry Pi 5 with 8GB RAM
