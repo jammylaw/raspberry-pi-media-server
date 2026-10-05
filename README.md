@@ -9,6 +9,18 @@ CasaOS dashboard showing the running applications and storage usage.
 
 ![CasaOS dashboard](casaos-dashboard.png)
 
+## Jellyfin Libraries
+
+Separate libraries organize movies and TV shows.
+
+### Movies
+
+![Jellyfin movie library](jellyfin-library.png)
+
+### TV Shows
+
+![Jellyfin TV library](jellyfin-shows.png)
+
 ## Hardware
 
 - Raspberry Pi 5 with 8GB RAM
