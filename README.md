@@ -23,10 +23,14 @@ Separate libraries organize movies and TV shows.
 
 ## Hardware
 
-- Raspberry Pi 5 with 8GB RAM
-- microSD card for the operating system
-- 256GB USB SSD
-- 500GB Toshiba SATA hard drive connected through a powered USB dock
+Raspberry Pi 5 with 8GB RAM, external storage and microSD card for the operating system
+![Pi and external storage](pi-storage-setup.jpg)
+
+256GB USB SSD connected to the Pi.
+![Pi and USB SSD](pi-usb-ssd.jpg)
+  
+500GB Toshiba SATA hard drive connected through a powered USB dock
+![Toshiba 500GB drive](toshiba-500gb-drive.jpg)
 
 ## Software
 
