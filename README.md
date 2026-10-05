@@ -30,7 +30,7 @@ external drive and scanned them into Audiobookshelf.
 
 This project included organizing book folders, matching metadata,
 checking for duplicate audio files, and confirming playback.
-
+ 
 ![Audiobookshelf library](audiobookshelf-library.png)
 
 ## Hardware
